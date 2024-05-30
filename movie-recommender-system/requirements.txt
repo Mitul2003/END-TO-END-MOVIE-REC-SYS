@@ -1,0 +1,9 @@
+streamlit
+requests
+# numpy
+# pandas
+# ast
+# nltk
+# PorterStemmer
+# CountVectorizer
+# pickle
